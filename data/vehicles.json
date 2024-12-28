@@ -1,0 +1,26 @@
+[
+    {
+        "name": "BMW",
+        "type": "Car",
+        "price": "234324000",
+        "image": "https:\/\/www.bmw.com.sg\/content\/dam\/bmw\/common\/all-models\/m-series\/series-overview\/bmw-m-series-seo-overview-ms-04.jpg"
+    },
+    {
+        "name": "Bugatti Chiron",
+        "type": "Car",
+        "price": "3000000",
+        "image": "https:\/\/d2ox13tjqpxop5.cloudfront.net\/BUGATTI-2023\/Bugatti-Models\/Sport\/Gallery\/CS_7.jpg"
+    },
+    {
+        "name": "Rolls Royes",
+        "type": "Car",
+        "price": "2131124",
+        "image": "https:\/\/www.rolls-roycemotorcars.com\/content\/dam\/rrmc\/marketUK\/rollsroycemotorcars_com\/spectre-discover\/page-components\/comp-update-dec-24\/D-HERO-SPECTRE-DISCOVER%20(1).jpg\/jcr:content\/renditions\/cq5dam.web.1920.webp"
+    },
+    {
+        "name": "Kawasaki Ninja h2r",
+        "type": "Bike",
+        "price": "4000000",
+        "image": "https:\/\/media.tenor.com\/ppZFDKvi4BMAAAAM\/dunan-ald%C4%B1burlar.gif"
+    }
+]
